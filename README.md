@@ -5,6 +5,7 @@ Also there is another section where you can modify the images in your gallery.
 While modifying all your changes is stores in your browser IndexDB storage (Dexie was used in this project, to make the process easier)
 The fact that this is stored in a database make your info available to you whenever anytime you come back to the page.
 
+Here is the link to the live website https://my-mini-insta.netlify.app/
 
 This is a react project, see available scripts below
 
